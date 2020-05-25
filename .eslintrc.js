@@ -30,6 +30,6 @@ module.exports = {
     quotes: ["error", "double"],
     semi: ["error", "always"],
     "no-console": "off",
-    "no-underscore-dangle": "error"
+    "no-underscore-dangle": "off"
   }
 };
